@@ -28,14 +28,14 @@ Finally, use pip to install the virtualenv library (its purpose will be explaine
     $ sudo pip install virtualenv
 
 
-## Electronic Text Primer
+# Electronic Text Primer
 
 ### A few of my recent projects...
 * [word.camera](https://word.camera)
 * [text clock](http://rossgoodwin.com/clock)
 
 
-## Python Crash Course
+# Python Crash Course
 
     $ python
     >> print "hello world!"
@@ -86,6 +86,6 @@ Finally, use pip to install the virtualenv library (its purpose will be explaine
 * [/r/LearnPython](http://reddit.com/r/learnpython)
 * [Official Python Tutorial](https://docs.python.org/2/tutorial/)
 
-## Pattern
+# Pattern Library
 
 
