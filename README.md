@@ -43,8 +43,8 @@ Finally, use pip to install the virtualenv library (its purpose will be explaine
     >> import this
     ...
 
-![ride the snake](http://i.imgur.com/71f0mB2.gif)
 ![ride the snake](http://i.imgur.com/lRxcHLA.gif)
+![ride the snake](http://i.imgur.com/71f0mB2.gif)
 
 ### Virtual Environment & iPython Notebook
 
