@@ -33,6 +33,20 @@ Finally, use pip to install the virtualenv library (its purpose will be explaine
 ### A few of my recent projects...
 * [word.camera](https://word.camera)
 * [text clock](http://rossgoodwin.com/clock)
+* [dr gonzo](http://www.thehypertext.com/2015/02/19/dr-gonzo/)
+
+### Contemporary Works
+* [Pentametron](https://twitter.com/pentametron) by Ranjit Bhatnagar
+* [The Deletionist](http://thedeletionist.com/) by Amaranth Borsuk, Jesper Juul and Nick Montfort
+* [Metaphor-A-Minute](https://twitter.com/metaphorminute) by Darius Kazemi (founder of [NaNoGenMo](https://github.com/dariusk/NaNoGenMo-2014/))
+* [I Waded In Clear Water](http://aparrish.github.io/nanogenmo2014/final.pdf) by Allison Parrish
+* [World Clock](http://nickm.com/post/2013/11/world-clock/) by Nick Montfort
+* [Patent Generator](http://lav.io/2014/05/transform-any-text-into-a-patent-application/) by Sam Lavigne
+
+### Historical Examples
+* [The Cut-Up Method of Brion Gysin](https://github.com/rossgoodwin/cutup) by William S. Burroughs
+* [Oulipo](http://en.wikipedia.org/wiki/Oulipo)
+* [The Policeman's Beard is Half Constructed](http://www.ubu.com/historical/racter/index.html) by [RACTER](http://www.myabandonware.com/game/racter-4m/play)
 
 
 # Python Crash Course
@@ -48,8 +62,14 @@ Finally, use pip to install the virtualenv library (its purpose will be explaine
 
 ### Virtual Environment & iPython Notebook
 
+Make a folder, cd into it in Terminal, and clone this repo inside the folder:
+
+    $ git clone https://github.com/rossgoodwin/itpcamp.git
+
+Now make a new virtual environment:
+
     $ virtualenv env
-    $ source env/bin/activate
+    $ . env/bin/activate
     $ pip install "ipython[notebook]"
     $ ipython notebook
 
@@ -80,12 +100,29 @@ Finally, use pip to install the virtualenv library (its purpose will be explaine
  * yield
 * [Code Like a Pythonista](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
 
-
 ### Resources
 * [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
 * [/r/LearnPython](http://reddit.com/r/learnpython)
 * [Official Python Tutorial](https://docs.python.org/2/tutorial/)
 
-# Pattern Library
+
+# Generating Electronic Text
+
+### Markov Chains
+![markov chain diagram](http://i.imgur.com/kwSjqJE.png)
+* [Wikipedia Article](http://en.wikipedia.org/wiki/Markov_chain)
+
+### Context-Free Grammars
+* [Wikipedia Article](http://en.wikipedia.org/wiki/Context-free_grammar)
+
+### Template Systems
+* [word.camera source code](https://github.com/rossgoodwin/photosynthesis)
+
+### Resources
+* Allison Parrish's [course materials](http://rwet.decontextualize.com/), [GitHub repo](https://github.com/aparrish/rwet-examples), and [resource list](https://github.com/aparrish/text-resources)
+* [List of Procedural Generation Tutorials](http://procjam.tumblr.com/post/99689402659/procedural-generation-tutorials-getting-started)
 
 
+# The Pattern Library
+
+* [Documentation](http://www.clips.ua.ac.be/pages/pattern)
